@@ -1,7 +1,7 @@
 # PortafolioQA
 Portafolio - proyectos propios
 
-# Project Structure
+Project Structure
 │
 ├── unit-tests/
 ├── api-testing/
