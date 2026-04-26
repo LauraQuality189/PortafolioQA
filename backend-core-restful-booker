@@ -1,0 +1,7 @@
+backend-core-restful-booker/
+│
+├── requirements/
+├── test-design/
+├── api-tests/
+├── regression-suite/
+└── README.md
